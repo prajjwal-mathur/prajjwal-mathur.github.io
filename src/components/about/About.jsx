@@ -46,6 +46,7 @@ const About = () => {
               <li>DSA</li>
               <li>Publicly learning about blockchain development and new projects coming up in web3 space</li>
               <li>Experiencing new tech</li>
+              <li>Other than that, I love digital sketching, gaming, video editing and graphic designing</li>
             </ul>
           </p>
 
