@@ -3,7 +3,6 @@ import Todos from '../../assets/TodosListApp.png'
 import Netflix from '../../assets/NetflixDashboard.png'
 import PyMini from '../../assets/PythonProjects.png'
 import FiltersJS from '../../assets/FiltersJS.png'
-import UC from '../../assets/uc.jpg'
 import './portfolio.css'
 
 
@@ -35,20 +34,6 @@ const data = [
     title: 'Filters with Javascript',
     github: 'https://github.com/SlowFlash22/Filters-with-JS',
     demo: 'https://slowflash22.github.io/Filters-with-JS/'
-  },
-  {
-    id: 5,
-    image: UC,
-    title: 'None',
-    github: 'https://www.youtube.com/watch?v=BBJa32lCaaY',
-    demo: 'https://www.youtube.com/watch?v=BBJa32lCaaY'
-  },
-  {
-    id: 6,
-    image: UC,
-    title: 'None',
-    github: 'https://www.youtube.com/watch?v=BBJa32lCaaY',
-    demo: 'https://www.youtube.com/watch?v=BBJa32lCaaY'
   }
 ]
 
