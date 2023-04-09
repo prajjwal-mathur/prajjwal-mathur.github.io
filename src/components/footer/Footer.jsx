@@ -29,7 +29,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; SlowFlash(2022). All right reserved </small>
+        <small>&copy; SlowFlash(2023). Forged with ⚡</small>
       </div>
     </footer>
   )
