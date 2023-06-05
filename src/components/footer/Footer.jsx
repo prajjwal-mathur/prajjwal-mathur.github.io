@@ -22,8 +22,6 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/slowflash" target="_blank" rel="noreferrer"><BsLinkedin /></a>
         <a href="https://github.com/SlowFlash22" target="_blank" rel="noreferrer"><BsGithub /></a>
-        <a href="https://twitter.com/_slowflash_" target="_blank" rel="noreferrer"><BsTwitter /></a>
-        <a href="https://www.instagram.com/_slowflash_/" target="_blank" rel="noreferrer"><BsInstagram /></a>
         <a href="https://slowflash.hashnode.dev/" target="_blank" rel="noreferrer"><SiHashnode /></a>
         <a href="https://slowflash.medium.com/" target="_blank" rel="noreferrer"><BsMedium /></a>
       </div>
